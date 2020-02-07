@@ -1,4 +1,3 @@
-<!--테스트-->
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 
@@ -8,6 +7,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>WILL PASS</title>
+<!-- 수정테스트 -->
 <!-- Bootstrap사용을 위한것 -->
 <jsp:include page="../include/Bootstrap.jsp"></jsp:include>
 <!-- 달력을 위한 css + js -->
